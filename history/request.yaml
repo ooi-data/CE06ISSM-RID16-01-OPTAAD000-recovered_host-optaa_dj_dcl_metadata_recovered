@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE06ISSM-RID16-01-OPTAAD000-recovered_host-optaa_dj_dcl_metadata_recovered
-last_request: '2022-01-01T00:20:29.054774Z'
+last_request: '2022-01-21T17:38:04.778618Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-RID16-01-OPTAAD000-recovered_host-optaa_dj_dcl_metadata_recovered/main/history/response.json
 status: discontinued
